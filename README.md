@@ -34,6 +34,9 @@
 | Hosting          | Vercel                               |
 
 ---
+
+### Deployed Project Link: https://resu-mate-ai-powered-resume-builder.vercel.app  
+---
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/d82b53f4-ade1-48d5-8287-ba066b91b282" />
 ---
 
